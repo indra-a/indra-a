@@ -1,5 +1,7 @@
-### Indra Ariunbold 👋
+### Hi, I'm Indra Ariunbold 👋
 
+- 🌱 I’m always learning about new ideas in the field of AI/ML
+- ⚡ Fun fact: I'm trilingual + understand two other languages
 <!--
 **indra-a/indra-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=indra-a)](https://git.io/streak-stats)
+-->
