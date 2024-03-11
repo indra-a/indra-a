@@ -1,4 +1,4 @@
-### Hi, I'm Indra Ariunbold 👋
+### Hi, I'm Indra 👋
 
 - 🌱 I’m always learning about new ideas in the field of AI/ML
 - ⚡ Fun fact: I'm trilingual + understand two other languages
